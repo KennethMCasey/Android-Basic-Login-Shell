@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IndividualProjectOne</string>
+    <string name="welcome_screen_label">Welcome to the Login App!!</string>
+    <string name="welcome_screen_username_label">Please enter username</string>
+    <string name="welcome_screen_password_label">Please enter password</string>
+    <string name="welcome_screen_login_button">Login</string>
+    <string name="welcome_screen_register_button">Register</string>
+    <string name="welcome_screen_login_error_message">Error, please ensure both your user name and password are correct.</string>
+    <string name="user_screen_sucessful_label">Login Was Sucessful, User Data would be populated here.</string>
+    <string name="register_first_name">Enter First Name</string>
+    <string name="register_last_name">Enter Last Name</string>
+    <string name="register_birthday">Enter Birth Date in MM/dd/yyyy Format</string>
+    <string name="register_email">Enter Email</string>
+    <string name="register_password">Enter Password</string>
+    <string name="register_submit">Submit.</string>
+</resources>
